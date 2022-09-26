@@ -1,10 +1,5 @@
 # Hotel Booking Prediction
 
-## Background
-Maximizing profit is a known goal for all businesses and having 100% occupancy is an ideal situation for hotel owners to optimize their revenue. 
-However, this goal is unattainable due to last-minute cancellations and no-shows.
-Therefore, hotels engage in profit maximizing strategy such as overbooking where hotel accepts more customers’ booking than the number of rooms available. 
-
 ## Objectives
 The aim of this project is to predict hotel booking cancellation using machine learning models (ML) with features of the customers being taken into consideration during the prediction.
 It enhances the overbooking strategy as hotels could accurately assign the number of rooms to be overbooked.
@@ -16,8 +11,7 @@ https://doi.org/10.1016/j.dib.2018.11.126. (https://www.sciencedirect.com/scienc
 
 It consist of data from 2 hotels (H1 and H2) with approximately 119,000 rows and 30 columns. 
 
-## Project Notebook Outline
-The project is split into 4 parts of the ipynb:
+## Executive Summary
 1. Exploratory Data Analysis (EDA)
 2. Pre-processing of Data
 3. Training of Machine learning models
