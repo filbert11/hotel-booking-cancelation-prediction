@@ -24,4 +24,4 @@ The project is split into 4 parts of the ipynb:
 4. Evaluation of Machine learning models
 
 ## Conclusion
-Neural network is the best machine learning models and achieved f1 score of 0.81.
+Neural network is the best machine learning model and achieved f1 score of 0.81.
