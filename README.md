@@ -16,4 +16,6 @@ https://doi.org/10.1016/j.dib.2018.11.126. (https://www.sciencedirect.com/scienc
 4. Evaluation of Machine learning models
 
 ## Conclusion
+Five Machine learning models i.e., Naive Bayes, Logistic Regression, Random Forest, K-nearest neighbors, Neural Network and Meta model by majority votings of these five models were trained to predict the hotel booking cancellation. 
+
 Neural network is the best machine learning model and achieved f1 score of 0.81.
